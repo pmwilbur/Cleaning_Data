@@ -1,0 +1,11 @@
+The data for this exercise needs to be obtained at the below location:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+See the above web site for information on the specifics of the data and how it was obtained.
+
+Create a folder for the R script called Cleaning_data.  Put the R script, run_analysis.R in this folder.
+The data can be downloaded as a zip file.  Once this is done, unzip the file and store in folder under the Cleaning_Data folder.  
+The result of unzipping the file will be a folder called UCI HAR Dataset with two folders underneath called test and train.
+
+The run_analysis.R script processes the data files in the test and train folders.  No parameters are necessary.
+
